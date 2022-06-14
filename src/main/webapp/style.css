@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.container {
+	width: 40%;
+	border: 2px solid black;
+	margin: auto;
+	padding: 20px;
+	font-size: 20px;
+}
+
+#myform table tr td input {
+	font-size: 20px;
+}
